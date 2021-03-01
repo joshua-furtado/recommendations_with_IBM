@@ -16,12 +16,11 @@ recommendations_with_IBM requires:
 ## Folder Descriptions
 
 1. [data](https://github.com/joshua-furtado/recommendations_with_IBM/tree/main/data)
-
-Contains these datasets in CSV format:  
-	- user-item-interactions.csv
-		- Contains information about user-article interactions
-	- articles_community.csv
-		- Contains information about all articles
+	- Contains these datasets in CSV format:  
+		- user-item-interactions.csv
+			- Contains information about user-article interactions
+		- articles_community.csv
+			- Contains information about all articles
 
 ## File Descriptions
 
